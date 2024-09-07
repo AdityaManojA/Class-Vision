@@ -1,7 +1,3 @@
-Here’s the **README.md** file specifically tailored for your project **Class-Vision**:
-
----
-
 ### **README.md**
 
 ```markdown
@@ -10,10 +6,10 @@ Here’s the **README.md** file specifically tailored for your project **Class-V
 Class-Vision is an AI-powered system designed to automate classroom attendance and management using facial recognition technology. The project enhances accuracy, security, and real-time data analytics, providing a scalable and efficient solution for educational institutions.
 
 ## Key Features
-- **Automated Attendance Tracking:** Automatically records attendance with facial recognition, reducing manual errors and preventing proxy attendance.
-- **Real-Time Data Analytics:** Provides insights into attendance trends and student participation.
-- **High Accuracy and Security:** Leverages advanced models to ensure precise identification and secure access control.
-- **Scalability:** Designed to adapt to institutions of all sizes, with the capability to expand as needed.
+- Automated Attendance Tracking: Automatically records attendance using facial recognition, reducing manual errors and preventing proxy attendance.
+- Real-Time Data Analytics: Provides insights into attendance patterns and student participation.
+- High Accuracy and Security: Leverages advanced models to ensure precise identification and secure access control.
+- Scalability: Designed to accommodate institutions of all sizes, with the capability to expand as needed.
 
 ## Project Structure
 - `/src`: Core codebase for facial recognition models, algorithms, and system logic.
@@ -58,16 +54,10 @@ python src/main.py --model /models/best_model.h5
 ```
 
 ## Contributing
-Contributions are welcome! Fork the repository, create a new branch, and submit a pull request with detailed notes on your changes.
+We welcome contributions! Fork the repository, create a new branch, and submit a pull request with detailed notes on your changes.
 
 ## License
-This project is licensed under the MIT License. See the [LICENSE](License) file for details.
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ## Contact
 For more information, please reach out to [Aditya](mailto:adityamanoja@gmail.com).
-
-```
-
----
-
-This README.md file provides a clear structure, highlighting the project's key features, setup instructions, and model usage.

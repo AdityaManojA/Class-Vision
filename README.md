@@ -1,23 +1,22 @@
-## **README.md**
+### **README.md**
 
-```markdown
 # Class-Vision: Facial Recognition Classroom Management System
 
 Class-Vision is an AI-powered system designed to automate classroom attendance and management using facial recognition technology. The project enhances accuracy, security, and real-time data analytics, providing a scalable and efficient solution for educational institutions.
 
-##Key Features
+## Key Features
 - Automated Attendance Tracking: Automatically records attendance using facial recognition, reducing manual errors and preventing proxy attendance.
 - Real-Time Data Analytics: Provides insights into attendance patterns and student participation.
 - High Accuracy and Security: Leverages advanced models to ensure precise identification and secure access control.
 - Scalability: Designed to accommodate institutions of all sizes, with the capability to expand as needed.
 
-##Project Structure
+## Project Structure
 - `/src`: Core codebase for facial recognition models, algorithms, and system logic.
 - `/data`: Datasets for model training, preprocessing scripts, and augmentation tools.
 - `/models`: Pre-trained models and benchmarks from various experiments.
 - `/docs`: Project documentation, including installation and usage instructions.
 
-##Getting Started
+## Getting Started
 
 1. **Clone the repository:**
    ```bash
@@ -61,3 +60,4 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Contact
 For more information, please reach out to [Aditya](mailto:adityamanoja@gmail.com).
+

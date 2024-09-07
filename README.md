@@ -56,7 +56,7 @@ python src/main.py --model /models/best_model.h5
 We welcome contributions! Fork the repository, create a new branch, and submit a pull request with detailed notes on your changes.
 
 ## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License. See the [LICENSE](License) file for details.
 
 ## Contact
 For more information, please reach out to [Aditya](mailto:adityamanoja@gmail.com).
